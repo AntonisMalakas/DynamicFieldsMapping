@@ -1,0 +1,11 @@
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\bin\Debug\netcoreapp3.1\dynamicFieldMapping.exe
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\bin\Debug\netcoreapp3.1\dynamicFieldMapping.deps.json
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\bin\Debug\netcoreapp3.1\dynamicFieldMapping.runtimeconfig.json
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\bin\Debug\netcoreapp3.1\dynamicFieldMapping.runtimeconfig.dev.json
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\bin\Debug\netcoreapp3.1\dynamicFieldMapping.dll
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\bin\Debug\netcoreapp3.1\dynamicFieldMapping.pdb
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\obj\Debug\netcoreapp3.1\dynamicFieldMapping.csprojAssemblyReference.cache
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\obj\Debug\netcoreapp3.1\dynamicFieldMapping.AssemblyInfoInputs.cache
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\obj\Debug\netcoreapp3.1\dynamicFieldMapping.AssemblyInfo.cs
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\obj\Debug\netcoreapp3.1\dynamicFieldMapping.dll
+C:\Users\a.haddad\source\repos\dynamicFieldMapping\dynamicFieldMapping\obj\Debug\netcoreapp3.1\dynamicFieldMapping.pdb
